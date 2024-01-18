@@ -6,3 +6,4 @@ What am I?
 This is a third commit to test the push pull workflow of Git - Brian
 
 Now, I'n testing adding something to the README.md of Lea - Polina
+Lea is explaining me git...hurray!!
